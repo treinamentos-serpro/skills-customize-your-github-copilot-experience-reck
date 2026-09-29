@@ -1,33 +1,32 @@
-# 📘 Tarefa: Classes em Python
+# 📘 Assignment: Classes in Python
 
 ## 🎯 Objective
 
-Aprenda a definir e utilizar classes em Python para modelar objetos e comportamentos do mundo real.
+Learn how to define and use classes in Python to model real-world objects and behaviors, practicing attributes, methods, and object interaction.
 
 ## 📝 Tasks
 
-### 🛠️ Definir uma Classe Simples
+### 🛠️ Define a Simple Class
 
 #### Descrição
-Crie uma classe chamada `Car` que represente um carro com atributos para marca, modelo e ano. Adicione um método para exibir informações sobre o carro.
+Create a class named `Car` that represents a car with attributes for make, model, and year. Add a method to display the car information.
 
 #### Requisitos
-O programa completo deve:
+O programa concluído deve:
 
-- Definir uma classe `Car` com atributos `make`, `model` e `year`
-- Incluir um método `display_info()` que imprima os detalhes do carro
-- Criar uma instância de `Car` e chamar `display_info()`
+- define a `Car` class with `make`, `model`, and `year` attributes
+- include a `display_info()` method that prints the car details
+- create an instance of `Car` and call `display_info()`
 
-
-### 🛠️ Adicionar Métodos e Interações
+### 🛠️ Add Methods and Interaction
 
 #### Descrição
-Expanda a classe `Car` para incluir um método que atualize a quilometragem do carro e outro para exibir a quilometragem atual.
+Extend the `Car` class to include a method that updates the car mileage and another method that displays the current mileage.
 
 #### Requisitos
-O programa completo deve:
+O programa concluído deve:
 
-- Adicionar um atributo `mileage` à classe `Car` (padrão 0)
-- Adicionar um método `update_mileage(new_mileage)` para atualizar a quilometragem
-- Adicionar um método `display_mileage()` para imprimir a quilometragem atual
-- Demonstrar a atualização e exibição da quilometragem de uma instância de `Car`
+- add a `mileage` attribute to the `Car` class with a default value of `0`
+- add an `update_mileage(new_mileage)` method to update the mileage
+- add a `display_mileage()` method to print the current mileage
+- demonstrate updating and displaying the mileage of a `Car` instance
